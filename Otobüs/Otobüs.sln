@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kontrol", "Database\Kontrol.csproj", "{05CD8FCE-E0EE-45D5-A5F0-F79397872A0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{F4131D20-FC82-4B03-8EFA-34D36695DB07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OtobusHizmeti", "OtobusHizmeti\OtobusHizmeti.csproj", "{E207DEEB-66BB-47B7-BE40-47EF66BE69AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05CD8FCE-E0EE-45D5-A5F0-F79397872A0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05CD8FCE-E0EE-45D5-A5F0-F79397872A0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05CD8FCE-E0EE-45D5-A5F0-F79397872A0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05CD8FCE-E0EE-45D5-A5F0-F79397872A0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4131D20-FC82-4B03-8EFA-34D36695DB07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4131D20-FC82-4B03-8EFA-34D36695DB07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4131D20-FC82-4B03-8EFA-34D36695DB07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4131D20-FC82-4B03-8EFA-34D36695DB07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E207DEEB-66BB-47B7-BE40-47EF66BE69AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E207DEEB-66BB-47B7-BE40-47EF66BE69AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E207DEEB-66BB-47B7-BE40-47EF66BE69AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E207DEEB-66BB-47B7-BE40-47EF66BE69AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0243788-0E82-43CC-BDCA-0A789786A3D9}
+	EndGlobalSection
+EndGlobal
